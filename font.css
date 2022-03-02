@@ -1,0 +1,4 @@
+@font-face {
+    font-family: "Sci Fied Bitmap";
+    src: url(scifibit.ttf) format("woff2"), url(scifibit.ttf) format("woff");
+}
